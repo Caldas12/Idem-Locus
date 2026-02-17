@@ -1,6 +1,6 @@
 <template>
   <UContainer class="py-10">
-    <h1 class="text-3xl font-bold mb-6">Plataforma de Trocas - Teste!</h1>
+    <h1 class="text-3xl font-bold mb-6">Plataforma de Trocas!</h1>
 
     <div v-if="pending"></div>
 
